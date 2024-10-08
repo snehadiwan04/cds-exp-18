@@ -1,14 +1,14 @@
 # EXPERIMENT - 18
 
 ## Aim:
-To implement stack implementation using array
+To implement stack implementation using an array
 
 ## Apparatus:
 Vs Code
 
 ## Theory:
-- Stack is a linear data structure which follows LIFO principle. In this article, we will learn how to implement Stack using Arrays.<btr>
-- In Array-based approach, all stack-related operations are executed using arrays. Let’s see how we can implement each operation on the stack utilizing the Array Data Structure.<br>
+- Stack is a linear data structure that follows LIFO principle. In this article, we will learn how to implement Stack using Arrays.<btr>
+- In the Array-based approach, all stack-related operations are executed using arrays. Let’s see how we can implement each operation on the stack utilizing the Array Data Structure.<br>
 - *Push* The operation of adding an element to the top of the stack. Example: If you push 5 onto an empty stack, the stack now contains [5].<br>
 - *Pop* The operation of removing the top element from the stack. Example: If you pop from a stack containing [5, 10], it removes 10 and leaves [5].<br>
 - *Peek (or Top)* A function that returns the top element of the stack without removing it. This operation is not included in the initial implementation but is commonly used.<br>
@@ -184,6 +184,7 @@ int main() {
 
 ### Outputs :
 ### 1.
-
+![Screenshot 2024-10-08 222827](https://github.com/user-attachments/assets/c54ab375-6938-4a41-b65a-652899cf39c3)
 
 ### 2.
+![Screenshot 2024-10-08 223147](https://github.com/user-attachments/assets/2d9d86fb-d6dd-4878-a936-18ff3eae0804)
